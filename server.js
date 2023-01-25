@@ -48,7 +48,7 @@ app.use(cors({origin:"*"}));
 
 
 app.get('/',(req,res)=>{
-    res.send('Hello to VJIT Feedback 2 API  25-12-2022 11:56');
+    res.send('Hello to VJIT Feedback 2 with oe update API  25-01-2022 08:37');
 })
 
 
